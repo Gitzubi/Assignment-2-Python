@@ -13,5 +13,5 @@ Problem Statement: Write a Python program that:
 1.   Uses a for loop to iterate over numbers from 1 to 50.
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.
-![image](https://github.com/user-attachments/assets/d96798c1-f18c-4bb0-b826-d33aeb191e0b)
+
 
